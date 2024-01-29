@@ -6,3 +6,5 @@
 Para ejecutar el sistema debes poner
 
 ```npt install react```
+
+Sistema de registro 2
